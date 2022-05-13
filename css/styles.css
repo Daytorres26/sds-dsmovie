@@ -4,3 +4,8 @@
 * {
     font-family: 'Open Sans',sans-serif;
 }
+
+header {
+    background-color: #4D41C0;
+    color:white;
+}
